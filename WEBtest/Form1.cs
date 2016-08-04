@@ -16,6 +16,7 @@ namespace WEBtest
         public Form1()
         {
             InitializeComponent();
+            textBox1.Text = "URL";
 
         }
 
